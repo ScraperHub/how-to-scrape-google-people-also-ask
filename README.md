@@ -1,3 +1,11 @@
+<a href="https://crawlbase.com/signup?utm_source=github&utm_medium=readme&utm_campaign=crawling_api_banner" target="_blank">
+  <img src="https://github.com/user-attachments/assets/afa4f6e7-25fb-442c-af2f-b4ddcfd62ab2" 
+       alt="crawling-api-cta" 
+       style="max-width: 100%; border: 0;">
+</a>
+
+
+
 # PAA Scraper (blog example)
 
 Scrapes Google People Also Ask (PAA) via the [Crawlbase Crawling API](https://crawlbase.com/docs/crawling-api/), parses questions, answers, and source URLs, and writes JSON. Supports geo-targeting via `gl`/`hl` and the [Enterprise Crawler](https://crawlbase.com/docs/crawler) for bulk scale.
